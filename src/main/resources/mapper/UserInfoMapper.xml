@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="hbzrzy.kjgh.dao.UserInfoDao">
+    <select id="findOne" resultType="hbzrzy.kjgh.entity.UserInfo">
+        select * from UserInfo where UserID=#{UserID}
+    </select>
+    <select id="findAll" resultType="hbzrzy.kjgh.entity.UserInfo">
+        select userid,username from UserInfo where 1=1
+    </select>
+
+</mapper>

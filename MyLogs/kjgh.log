@@ -1,0 +1,11 @@
+2020-12-03 10:11:28.903 [ main ] - [ INFO  ] [ hbzrzy.kjgh.KjghApplication : 55 ] - Starting KjghApplication on DESKTOP-K7I9I42 with PID 15804 (D:\testfiles\javanew\kjgh\target\classes started by qyh in D:\testfiles\javanew\kjgh)
+2020-12-03 10:11:28.921 [ main ] - [ INFO  ] [ hbzrzy.kjgh.KjghApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-12-03 10:11:31.279 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-12-03 10:11:31.280 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-12-03 10:11:31.281 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-12-03 10:11:31.449 [ main ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-12-03 10:11:32.589 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-12-03 10:11:32.645 [ main ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2020-12-03 10:11:33.365 [ main ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - HikariPool-1 - Start completed.
+2020-12-03 10:11:33.556 [ main ] - [ INFO  ] [ hbzrzy.kjgh.KjghApplication : 61 ] - Started KjghApplication in 5.507 seconds (JVM running for 12.995)
+2020-12-03 10:13:08.887 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
